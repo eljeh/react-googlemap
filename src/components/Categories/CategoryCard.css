@@ -1,0 +1,32 @@
+.category-card {
+	background-color: white;
+	margin-bottom: 0;
+	max-width: 360px;
+	min-width: 56px;
+	min-height: 56px;
+	box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.category-item {
+	margin-right: 0 !important;
+	margin-bottom: -0.4rem;
+}
+
+.icon {
+	margin: 4px;
+	width: 48px;
+	height: 48px;
+	background-color: #007bff;
+	border-radius: 50%
+}
+
+/* .icon:empty {
+	border: 1px solid grey;
+	background-color: red;
+	background: url(/assets/svgs/placeholder-icon.svg) red;
+	background-repeat: no-repeat;
+	background-origin: content-box;
+	display: block;
+	background-position: center;
+	background-size: 100%;
+} */
